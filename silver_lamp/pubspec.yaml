@@ -43,6 +43,8 @@ dependencies:
   smooth_page_indicator: ^1.1.0
   flutter_holo_date_picker: ^1.1.0
   firebase_core: ^2.8.0
+  image_picker: ^0.8.7+1
+  video_player: ^2.6.1
 
 dev_dependencies:
   flutter_test:
