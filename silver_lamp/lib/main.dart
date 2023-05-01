@@ -1,10 +1,6 @@
-import 'package:gait_analysis/auth/main_page.dart';
-import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';
-import 'package:gait_analysis/pages/login_page.dart';
-import 'pages/homepage.dart';
 import 'pages/welcome_page.dart';
 
 void main() async {
