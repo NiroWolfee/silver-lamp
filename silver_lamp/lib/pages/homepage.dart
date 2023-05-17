@@ -1,6 +1,5 @@
-import 'package:gait_analysis/pages/navbar/discover_page.dart';
-import 'package:gait_analysis/pages/navbar/likes_page.dart';
-import 'package:gait_analysis/pages/navbar/search_page.dart';
+import 'package:gait_analysis/pages/navbar/upload_page.dart';
+import 'package:gait_analysis/pages/navbar/videos_page.dart';
 import 'package:gait_analysis/pages/navbar/settings_page.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
@@ -45,7 +44,6 @@ class _HomePageState extends State<HomePage> {
 
   final List<Widget> _pages = [
     DiscoverPage(),
-    LikesPage(),
     SearchPage(),
     SettingsPage(),
   ];
