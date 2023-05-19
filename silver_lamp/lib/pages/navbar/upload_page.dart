@@ -124,7 +124,7 @@ class _DiscoverPageState extends State<DiscoverPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Discover"),
+        title: Text("Upload"),
       ),
       body: Column(
         mainAxisAlignment: MainAxisAlignment.center,

@@ -78,10 +78,6 @@ class _HomePageState extends State<HomePage> {
                   text: 'Likes',
                 ),
                 GButton(
-                  icon: Icons.search,
-                  text: 'Search',
-                ),
-                GButton(
                   icon: Icons.settings,
                   text: 'Settings',
                 ),
